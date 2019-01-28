@@ -21,3 +21,7 @@ It is assumed that:
 
 In case of a diffenent number of columns, but the same document structure,
 the value of N can be modified.
+
+Author
+-------
+Andrey Yashurin
